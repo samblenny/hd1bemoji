@@ -35,7 +35,9 @@ This project uses graphics from the twemoji project (CC-BY 4.0)
 - Twemoji License Notice:
 
    > Copyright 2019 Twitter, Inc and other contributors
+   >
    > Code licensed under the MIT License: http://opensource.org/licenses/MIT
+   >
    > Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 - Twemoji Source Code Link: https://github.com/twitter/twemoji
