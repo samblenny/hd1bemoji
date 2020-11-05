@@ -9,7 +9,7 @@ This project modifies the 72x72 PNG emoji files from the twemoji project
 
 1. Consolidate the 3360 individual PNG files from twemoji/assets/72x72/ into a
    16 column by 210 row sprite sheet using Imagemagick's montage tool. See
-   [72SpriteSheetColor.png](72SpriteSheetColor.png).
+   [74SpriteSheetColor.png](74SpriteSheetColor.png).
 
 2. Scale and convert the full size color PNG sprite sheet into 1-bit monochrome
    sprite sheets at a variety of sizes, and dithering methods. This stage uses
